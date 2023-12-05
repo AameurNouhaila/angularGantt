@@ -5,7 +5,7 @@ import { Task } from '../models/task';
 import { Link } from '../models/link';
 
 import { gantt } from 'dhtmlx-gantt';
-
+//
 @Component({
 	encapsulation: ViewEncapsulation.None,
 	selector: 'gantt',

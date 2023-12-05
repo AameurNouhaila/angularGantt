@@ -14,9 +14,6 @@
  * Learn more in https://angular.io/guide/browser-support
  */
 
-/***************************************************************************************************
- * BROWSER POLYFILLS
- */
 
 /**
  * By default, zone.js will patch all possible macroTask and DomEvents

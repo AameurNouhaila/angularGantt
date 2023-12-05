@@ -22,3 +22,4 @@ import { GanttComponent } from './components/gantt.component';
 	bootstrap: [AppComponent],
 })
 export class AppModule {}
+//

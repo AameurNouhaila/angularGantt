@@ -4,3 +4,4 @@ export class Link {
 	target!: number;
 	type!: string;
 }
+//
